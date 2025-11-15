@@ -30,10 +30,15 @@ Validate the HTML and CSS code
 Publish the website in the given URL.
 
 ## PROGRAM
+```html
 
+```
+```css
+```
 
 ## OUTPUT
-
+![alt text](image-2.png)
+![alt text](image.png)
 
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
